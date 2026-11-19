@@ -2,26 +2,24 @@
 
 ## My Name
 
-Write your name.
+My Name Priyanshu Dubey
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
-
-## Why I Selected Python
+i had learned loops, decision, array, string.
 
 Write your reason in your own words.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+i had to become the developer and solve real world problems
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means:it is language tocommunicate with computer.
 
-Python is:
+Python is:high level and hybrid language
 
-In this track, I will learn:
+In this track, I will learn:python and Django
